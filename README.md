@@ -1,6 +1,8 @@
 # koa-superstruct
 Use the [superstruct][superstruct] data validation library as middleware for your [koa][koa] app.
 
+<a href="https://communityinviter.com/apps/koa-js/koajs" rel="KoaJs Slack Community">![KoaJs Slack](https://img.shields.io/badge/Koa.Js-Slack%20Channel-Slack.svg?longCache=true&style=for-the-badge)</a>
+
 ## usage
 ```javascript
 const { struct } = require('superstruct')
